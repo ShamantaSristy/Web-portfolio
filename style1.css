@@ -1,0 +1,113 @@
+body {
+    margin: 0px;
+   
+    
+}
+
+h1 {    
+    font-family: 'Sriracha', cursive;
+    font-size:50px;
+    font-weight: 400;
+    color: dimgrey;
+}
+
+h2 {
+    font-family: 'Architects Daughter', cursive;
+   font-size: 40px;
+   font-weight: 300;
+     color: lightcoral;
+    
+}
+h3{
+        font-family: 'Neucha', cursive;
+    color: mediumslateblue;
+        font-size:large;
+   
+}
+
+p {
+    color: dimgray;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+.name-highlight {
+    color: cornflowerblue;
+}
+.half-width {
+    width: 40%;
+    float:left;
+   margin: 2%;
+    padding-left:1%;
+}
+.top-banner {
+        
+    background-size: 500px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: cornflowerblue;
+    background-image: linear-gradient(lightgray, cornflowerblue);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: dimgray;
+             }
+
+.bottom-banner {
+    
+    background-size: 500px;
+}     
+
+
+.half-width img {
+    width: 100%;
+}
+#link {
+    font-family: 'Neucha', cursive;
+}  
+.experience-area {
+    background-size: 500px;
+}
+.experience-area {
+    float: left;
+    margin-left: 20px;
+}
+.year-highlight {
+    color: rebeccapurple;
+}
+.change-experience-color {
+    color: saddlebrown;
+    margin-left: 20px;
+}
+.single-experience {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 300px;
+}
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-size: 5%;
+    background-repeat: no-repeat;
+    margin: 0%;
+  background-position: left;
+    
+}
+#full-stack {
+    border-left: 5px solid ;
+    border-image: linear-gradient(180deg, gray,black);
+    border-image-slice: 1;
+    background-color: white;
+}
+#baby-web {
+    border-left: 5px solid ;
+    border-image: linear-gradient(180deg, cornflowerblue,blue);
+    border-image-slice: 1;
+}
+footer p {
+ text-align: center;
+ font-size:12px;   
+
+}
